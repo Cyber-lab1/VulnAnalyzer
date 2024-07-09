@@ -15,7 +15,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import WebDriverException, TimeoutException, NoSuchElementException
 
-openai.api_key = 'sk-proj-SQcNz6VQ6Gm3ypzgLRrbT3BlbkFJth4oCzZ2GOfMz2lCQkF8'  # Replace with your actual OpenAI API key
+openai.api_key = ''  # Replace with your actual OpenAI API key
 
 app = Flask(__name__)
 
