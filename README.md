@@ -33,6 +33,8 @@ Run the tool:
 python vulnanalyzer.py
 
 
+openai.api_key = ''  # Replace with your actual OpenAI API key
+
 
 
 
