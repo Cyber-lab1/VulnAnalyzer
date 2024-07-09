@@ -1,0 +1,8 @@
+flask
+selenium
+webdriver_manager
+beautifulsoup4
+requests
+sqlite3
+openai
+mitmproxy
